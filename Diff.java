@@ -7,4 +7,4 @@ public class Diff{
         int c = a - b;
         System.out.println(a-b);
     }
-}
+}   
